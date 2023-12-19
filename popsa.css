@@ -1,0 +1,161 @@
+/**{ margin: 0;
+padding: 0;}*/
+
+/*#wq */body {
+	background-color: white;
+}
+h1 {font-family: Comic Sans MS, Comic Sans, cursive;
+ }
+#popsa11 {
+	width: 200px;
+	border-radius: 15%;
+	box-shadow: 7px 4.3px 4.3px #c89cf7;
+	margin-bottom: 25px;
+}
+#pop3 {
+	color: gray;
+	text-transform: lowercase;
+	letter-spacing: 75px;
+	text-align: center;
+}
+
+ .contener {
+ 	max-width: 750px;
+ 	margin: auto;
+ 	padding-top: 5px;
+ }
+  a {
+  	color:gray;
+  	text-decoration: none;
+  }
+  a:hover {
+  	color: blue;
+  	text-decoration: underline;
+  }
+  .bg-color1 {
+  	background: #fff9dc;
+  }
+
+  .bg-color2 {
+  	background: #e5ffe7;
+  }
+
+  .bg-color3 {
+  	background: #ffe5e5;
+  }
+
+  .cart {
+  	padding: 10px 20px;
+  	margin-bottom: 20px;
+  	border-radius: 20px;
+  }
+  #list {
+  	color: gray;
+  	padding: 0 20px;
+  }
+  #list li {
+
+  	margin-bottom: 10px;
+  }
+  .table1 {
+  	width: 100%;
+  	color: gray;
+  }
+  .x1x {
+  	font-size: 17px;
+  	color: black;
+  	width: 59%;
+  }
+  .contact h2 {
+  	text-align: center;
+  }
+.forma label {
+	display: block;
+	font-size: 18px;
+	color: black;
+}
+.forma input,
+.forma textarea {
+	width: 100%;
+	dox-sizing: border-box;
+	border: none;
+	border-bottom: 1px solid #ccc;
+	color: black;
+	padding: 15px 0 10px;
+	outline: none;
+	font-family: inherit;
+
+}
+.popsa12 {
+display: flex;
+}
+
+/*Для телефона*/
+@media (max-width: 700px){
+	.popsa12 {
+		display: block;
+		text-align: center;
+	}
+}
+
+
+.popsa13 {
+margin-left: 20px;
+}
+.popsa13 h4 {
+	margin-bottom: 7px;
+	font-size: 20px;
+}
+.popsa13 p {
+	margin-top: 0.5em; /* Отступ сверху */
+    margin-bottom: 1em;
+}
+ 
+#popsa15 {
+	background: black;
+	color: white;
+	padding: 13.5px 23px;
+	margin-top: 10px;
+	border: 0.5 solid white;
+	border-radius: 7px ;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-size: 15px;
+}
+#wew {
+	font-size: 20px;
+	font-style: oblique;
+}
+#popsa16 {
+	width: 200px;
+	border-radius: 15%;
+	box-shadow: 7px 4.3px 4.3px #56c5fc;
+	margin-bottom: 25px;
+}
+#popsa17 {
+	width: 200px;
+	border-radius: 15%;
+	box-shadow: 7px 4.3px 4.3px #56fc6c;
+	margin-bottom: 25px;
+}
+#popsa18 {
+	width: 200px;
+	border-radius: 15%;
+	box-shadow: 7px 4.3px 4.3px red;
+	margin-bottom: 25px;
+}
+#dark {
+	width:42px ;
+	height:25px ;
+	font-size: 10px;
+	text-align: center;
+	background: #560391;
+	color: white;
+	font-family: OCR A Std, monospace;
+	border: none;
+	border-radius: 5px;
+}
+#coz {
+	font-size: 30px;
+}
+
+	
